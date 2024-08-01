@@ -1,3 +1,5 @@
+# Setting for the color scheme in UI
+
 def print_green(string: str):
     print(f"\033[32m{string}\033[0m")
 

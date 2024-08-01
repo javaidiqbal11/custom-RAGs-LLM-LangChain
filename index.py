@@ -1,3 +1,7 @@
+## This file used to perform indexing of the input documents 
+
+# import the necessary libraries 
+
 import os
 from langchain.document_loaders import PyPDFLoader
 from langchain.vectorstores import FAISS
@@ -7,7 +11,7 @@ import color_print
 from constants import OPENAI_API_KEY
 os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
 
-
+# paths to the files directories 
 def get_pdf_paths(folder_path):
     """Returns a list of the paths of all the PDFs in the given folder."""
     pdf_paths = []

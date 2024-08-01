@@ -59,6 +59,10 @@ python main.py
 
 ### 5- Running ChatBot
 Running the ChatBot using the above commands. 
+It is working with the same previous command... 
+```bash
+python main.py
+```
 
 
 ### Note:

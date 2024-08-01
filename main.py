@@ -1,3 +1,6 @@
+## This file used to perform the retrieval and generation 
+
+
 import os
 from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import OpenAIEmbeddings
