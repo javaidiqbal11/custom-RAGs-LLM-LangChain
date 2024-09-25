@@ -1,4 +1,4 @@
-## This file used to perform the retrieval and generation 
+## This file used to perform the retrieval and generation (RAG)
 
 
 import os
