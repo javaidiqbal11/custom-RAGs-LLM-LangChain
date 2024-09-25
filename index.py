@@ -1,5 +1,4 @@
 ## This file used to perform indexing of the input documents 
-
 # import the necessary libraries 
 
 import os
