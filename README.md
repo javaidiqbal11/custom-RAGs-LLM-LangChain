@@ -1,9 +1,7 @@
-# LLMs on Custom Data using Langchain and RAGs!
-
+# LLMs on Custom Data using Langchain and RAGs
 In this project, I've implemented LLMs on custom data, using the power of Langchain and RAG.
 
 ## Getting Started
-
 Add you openai api ket in **constants.py** file
 You need to add supported files to docs folder, then execute the **index.py** to get those files indexed in vector database.
 
@@ -31,7 +29,6 @@ Create a folder named docs, add supported files given below to docs.
 
 ```text
 Supported Document Types:
-
 PDF (.pdf)
 Text (.txt)
 Word (.docx)
@@ -63,7 +60,6 @@ It is working with the same previous command...
 ```bash
 python main.py
 ```
-
 
 ### Note:
 Feel free to explore the code, open issues, and make pull requests. I appreciate your support and look forward to collaborating with you!
