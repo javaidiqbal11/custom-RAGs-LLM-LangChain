@@ -1,4 +1,4 @@
-# LLMs on Custom Data using Langchain and RAGs
+# RAGs LLMs on Custom Data using Langchain
 In this project, I've implemented LLMs on custom data, using the power of Langchain and RAG.
 
 ## Getting Started
