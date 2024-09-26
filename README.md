@@ -2,12 +2,10 @@
 In this project, I've implemented LLMs on custom data, using the power of Langchain and RAG.
 
 ## Getting Started
-Add you openai api ket in **constants.py** file
-You need to add supported files to docs folder, then execute the **index.py** to get those files indexed in vector database.
-
-You do not need to reupload data again and again, you can just add more data to docs and execute **index.py** to index more and more data.
-
-Then you can execute the **main.py** and you are good to go.
+i. Add you openai api ket in `constants.py` file
+ii. You need to add supported files to docs folder, then execute the **index.py** to get those files indexed in vector database.
+iii. You do not need to reupload data again and again, you can just add more data to docs and execute `index.py` to index more and more data.
+iv. Then you can execute the `main.py` and you are good to go.
 
 ### 1-Cloning the Repository
 
