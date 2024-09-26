@@ -1,5 +1,4 @@
-## This file used to perform the retrieval and generation (RAG)
-
+# This file used to perform the retrieval and generation (RAG)
 
 import os
 from langchain.chat_models import ChatOpenAI
