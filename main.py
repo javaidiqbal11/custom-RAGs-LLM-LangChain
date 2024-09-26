@@ -1,4 +1,5 @@
 # This file used to perform the retrieval and generation (RAG)
+# Tested with the real-time docs including pdf, doc etc. 
 
 import os
 from langchain.chat_models import ChatOpenAI
